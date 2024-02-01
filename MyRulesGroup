@@ -107,7 +107,7 @@ overwrite_original_rules=true
 ;clash_rule_base=https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashConfig.yml
 
 #过滤节点，正则匹配
-exclude_remarks=(到期)
+exclude_remarks=(到期|剩余)
 
 ;luck
 
