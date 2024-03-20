@@ -88,17 +88,17 @@ custom_proxy_group=🚀 免流`select`(80|443|TCP|浙停|广停|绿通)
 custom_proxy_group=🚩 社交平台IP归属地`select`[]DIRECT`[]🎯 国内流量`[]🚀 国外流量`[]🇸🇬 新加坡节点`[]🇭🇰 香港节点`[]🇹🇼 台湾节点`[]🇯🇵 日本节点`[]🇺🇸 美国节点`[]🇰🇷 韩国节点`[]🇮🇳 印度节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇷🇺 俄罗斯节点`[]🇩🇪 德国节点`[]🚀 手动选择1`[]🚀 手动选择2
 custom_proxy_group=🔯 故障转移`fallback`(^(?!.*(剩余流量|到期时间|过期时间|官网地址|产品名称|先购买套餐|流量消耗|唯一官网|更新订阅)).*)`https://i.ytimg.com/generate_204`300,,50
 custom_proxy_group=🔮 负载均衡`load-balance`(^(?!.*(剩余流量|到期时间|过期时间|官网地址|产品名称|先购买套餐|流量消耗|唯一官网|更新订阅)).*)`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇭🇰 香港节点`url-test`(🇭🇰|港|HK|Hong Kong)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇯🇵 日本节点`url-test`(🇯🇵|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇺🇸 美国节点`url-test`(🇺🇸|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,150
-custom_proxy_group=🇹🇼 台湾节点`url-test`(🇹🇼|台|新北|彰化|TW|Taiwan)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇭🇰 香港节点`url-test`(🇭🇰|港|HK|Hong Kong)(?!.*())`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇯🇵 日本节点`url-test`(🇯🇵|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇺🇸 美国节点`url-test`(🇺🇸|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,150
+custom_proxy_group=🇹🇼 台湾节点`url-test`(🇹🇼|台|新北|彰化|TW|Taiwan)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
 custom_proxy_group=🇸🇬 新加坡节点`url-test`(🇸🇬|新加坡|坡|狮城|SG|Singapore)(?!.*(流媒体劫持))`https://i.ytimg.com/generate_204`300,,50
 custom_proxy_group=🇰🇷 韩国节点`url-test`(🇰🇷|KR|Korea|KOR|首尔|韩|韓)`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇩🇪 德国节点`url-test`(🇩🇪|德国|DE|Germany)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇬🇧 英国节点`url-test`(🇬🇧|英|伦敦|UK|U.K|United Kingdom)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇷🇺 俄罗斯节点`url-test`(俄|🇷🇺|RU|Russian|Moscow)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇫🇷 法国节点`url-test`(法|🇫🇷|FRA|巴黎|Paris)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
-custom_proxy_group=🇮🇳 印度节点`url-test`(🇮🇳|印|印度|IN|India)(?!.*(Home))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇩🇪 德国节点`url-test`(🇩🇪|德国|DE|Germany)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇬🇧 英国节点`url-test`(🇬🇧|英|伦敦|UK|U.K|United Kingdom)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇷🇺 俄罗斯节点`url-test`(俄|🇷🇺|RU|Russian|Moscow)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇫🇷 法国节点`url-test`(法|🇫🇷|FRA|巴黎|Paris)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
+custom_proxy_group=🇮🇳 印度节点`url-test`(🇮🇳|印|印度|IN|India)(?!.*(家宽))`https://i.ytimg.com/generate_204`300,,50
 ;设置分组标志位
 
 enable_rule_generator=true
