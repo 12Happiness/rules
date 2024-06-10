@@ -84,3 +84,8 @@ DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,akuai.9012345.xyz
 # NMEmby
 DOMAIN-SUFFIX,film.hovervan.org
+# Apop Emby
+DOMAIN-SUFFIX,api.apopcloud.me
+DOMAIN-SUFFIX,emby.apopcloud.com
+DOMAIN-SUFFIX,portal.apopcloud.com
+
