@@ -55,7 +55,6 @@ DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,cf.imetyou.top
 DOMAIN-SUFFIX,film.goodisp.org
 DOMAIN-SUFFIX,media.nijigem.byr
-DOMAIN-SUFFIX,v.20120714.xyz
 DOMAIN-SUFFIX,ws1.jellyfin.asia
 DOMAIN-SUFFIX,cherrytv.one
 DOMAIN-SUFFIX,150.230.233.218
@@ -89,4 +88,9 @@ DOMAIN-SUFFIX,film.hovervan.org
 DOMAIN-SUFFIX,api.apopcloud.me
 DOMAIN-SUFFIX,emby.apopcloud.com
 DOMAIN-SUFFIX,portal.apopcloud.com
-
+# CbCb
+DOMAIN-SUFFIX,emby.cbcb.lol
+# Marmot Emby
+DOMAIN-SUFFIX,v.20120714.xyz
+DOMAIN-SUFFIX,if.20120714.xyz
+DOMAIN-SUFFIX,36.137.22.140
