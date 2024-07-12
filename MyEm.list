@@ -47,8 +47,6 @@ DOMAIN-SUFFIX,cf.studyfun.live
 DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,cdn.bili.rip
 DOMAIN-SUFFIX,cf.bili.rip
-# 剧狗
-DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,fuck.nvidia.rip
 DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,play.charontv.com
@@ -96,4 +94,5 @@ DOMAIN-SUFFIX,if.20120714.xyz
 DOMAIN-SUFFIX,36.137.22.140
 # 大V影院
 DOMAIN-SUFFIX,su.viclub.top
-
+# CC公益
+DOMAIN-KEYWORD,cc.coemn.com
