@@ -38,7 +38,6 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,emby
-DOMAIN-KEYWORD,pilipiliultra
 DOMAIN-SUFFIX,zdb.xiaoyi.one
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,cf.jmsooo.com,
@@ -95,10 +94,14 @@ DOMAIN-SUFFIX,36.137.22.140
 # 大V影院
 DOMAIN-SUFFIX,su.viclub.top
 # CC公益
-DOMAIN-KEYWORD,cc.coemn.com
+DOMAIN-SUFFIX,cc.coemn.com
 # 天南小筑
-DOMAIN-KEYWORD,nanflix.net
+DOMAIN-SUFFIX,nanflix.net
 # Heisi-Emby
-DOMAIN-KEYWORD,i109.com
-DOMAIN-KEYWORD,h1.i109.com
-DOMAIN-KEYWORD,h2.i109.com
+DOMAIN-SUFFIX,i109.com
+DOMAIN-SUFFIX,h1.i109.com
+DOMAIN-SUFFIX,h2.i109.com
+# pilipili
+DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,css.pilipili.club
+DOMAIN-SUFFIX,xn--ohq746dhyifsj.xn--pp5aa2sb.com
