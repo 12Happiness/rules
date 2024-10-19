@@ -1,0 +1,4 @@
+# 添加直连规则示例
+
++rules:
+  - "DOMAIN-SUFFIX,sc.panda985.com,DIRECT"
