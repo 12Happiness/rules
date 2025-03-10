@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,su.viclub.top
 DOMAIN-SUFFIX,cc.coemn.com
 # 天南小筑
 DOMAIN-SUFFIX,nanflix.net
+DOMAIN-SUFFIX,us.nanflix.net
 # Heisi-Emby
 DOMAIN-SUFFIX,i109.com
 DOMAIN-SUFFIX,h1.i109.com
@@ -109,3 +110,18 @@ DOMAIN-SUFFIX,streamer.pilipiliultra.com
 DOMAIN-SUFFIX,emby.cn2gias.uk
 # 卷毛鼠
 DOMAIN-SUFFIX,mini.jmsuper.com
+# Lemby
+DOMAIN-SUFFIX,alihk.lemby.me
+DOMAIN-SUFFIX,cf.lemby.me
+# KikuEmby
+DOMAIN-SUFFIX,emby.ucloudhost.top
+# SaturDay.Lite
+DOMAIN-SUFFIX,lite.saturday.video
+# 惊蛰
+DOMAIN-SUFFIX,emby.jingzhe.pro
+# lily
+DOMAIN-SUFFIX,cf.lilyemby.my
+DOMAIN-SUFFIX,hk.lilyemby.my
+DOMAIN-SUFFIX,jp.lilyemby.my
+# Lyrebird
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
