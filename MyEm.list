@@ -84,10 +84,6 @@ DOMAIN-SUFFIX,emby.apopcloud.com
 DOMAIN-SUFFIX,portal.apopcloud.com
 # CbCb
 DOMAIN-SUFFIX,emby.cbcb.lol
-# Marmot Emby
-DOMAIN-SUFFIX,v.20120714.xyz
-DOMAIN-SUFFIX,if.20120714.xyz
-DOMAIN-SUFFIX,36.137.22.140
 # 大V影院
 DOMAIN-SUFFIX,su.viclub.top
 # CC公益
@@ -131,4 +127,6 @@ DOMAIN-SUFFIX,cloudf.chilledmelon.com
 DOMAIN-SUFFIX,gm.yezi.my
 # KFC
 DOMAIN-SUFFIX,kfc.v50.su
-
+# peach
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,120.236.197.80
