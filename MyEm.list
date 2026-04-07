@@ -130,3 +130,7 @@ DOMAIN-SUFFIX,kfc.v50.su
 # peach
 IP-CIDR,193.123.232.141/32
 DOMAIN-SUFFIX,embymv.link
+# Liminal
+DOMAIN-SUFFIX,cdn.liminalnet.pro
+DOMAIN-SUFFIX,limina.552554.xyz
+DOMAIN-SUFFIX,151.242.183.12
