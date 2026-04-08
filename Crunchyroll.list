@@ -1,6 +1,7 @@
 # NAME: Crunchyroll
-DOMAIN,crunchyroll.com:443
-DOMAIN,imgsrv.crunchyroll.com:443
+DOMAIN-KEYWORD,crunchyroll
+DOMAIN,crunchyroll.com
+DOMAIN,imgsrv.crunchyroll.com
 DOMAIN,qq.crunchyroll.com
 DOMAIN,static.crunchyroll.com
 DOMAIN-SUFFIX,crunchyroll.com
